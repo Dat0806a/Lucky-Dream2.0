@@ -1,0 +1,9 @@
+{
+  "name": "LuckyDream VN",
+  "description": "Hệ sinh thái thời trang và du lịch thông minh tại Việt Nam, tích hợp Supabase. Phối đồ, đề xuất điểm đến, ẩm thực và phương tiện di chuyển.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
